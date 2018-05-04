@@ -19,4 +19,5 @@ Xdebug port 9000
 Service | Version | Port
 --- | --- | ---
 Apache2 | 2.4.25 | 8002 | 
+PHP | 7.2.5 | 8002 | 
 Xdebug | 2.6.0 | 9000 |
