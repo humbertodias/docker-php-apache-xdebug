@@ -1,6 +1,6 @@
-## Docker project for PHP7 and Apache2
+## Docker project for PHP and Apache2
 
-This is a docker project to create a container with PHP8, Xdebug and Apache2. 
+This is a docker project to create a container with PHP, Xdebug and Apache2. 
 
     docker compose up
 
