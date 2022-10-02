@@ -7,8 +7,12 @@ This is a docker project to create a container with PHP, Xdebug and Apache2.
 Starts the container named php-apache2
 
 Browse to http://localhost:8002
+or
+http://localhost:8002/db.php
+
 
 A sample employee list page is displayed.
+
 
 See Dockerfile and [docker-compose.yml](docker-compose.yml) for configuration details.
 
