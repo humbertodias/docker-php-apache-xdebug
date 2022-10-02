@@ -4,7 +4,7 @@ This is a docker project to create a container with PHP7, Xdebug and Apache2.
 
     docker compose up
 
-Starts the container named php7-apache2
+Starts the container named php-apache2
 
 Browse to http://localhost:8002
 
