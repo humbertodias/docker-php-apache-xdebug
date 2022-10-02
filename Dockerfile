@@ -1,7 +1,7 @@
-FROM php:7.3.4-apache
+FROM php:8.0.24-apache
 
-RUN apt-get update \
-&& apt-get install -y apt-utils vim curl sqlite3 \
+RUN apt update \
+&& apt install -y apt-utils vim curl sqlite3 \
 && pecl install xdebug
 
 # copy test db file

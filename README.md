@@ -2,7 +2,7 @@
 
 This is a docker project to create a container with PHP7, Xdebug and Apache2. 
 
-    docker-compose up
+    docker compose up
 
 Starts the container named php7-apache2
 
@@ -18,6 +18,6 @@ Xdebug port 9000
 
 Service | Version   | Port
 ---     | ---       | ---
-Apache2 | 2.4.25    | 8002 | 
-PHP     | 7.3.4     | 8002 | 
-Xdebug  | 2.6.0     | 9000 |
+Apache2 | 2.4.54    | 8002 | 
+PHP     | 8.0.24    | 8002 | 
+Xdebug  | 3.1.5     | 9000 |
